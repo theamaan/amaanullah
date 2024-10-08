@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aman Ullah</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<img align = "right" alt = "Coding" width = "400" src = "https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/65198b6e-e407-4c8f-8500-6768cb35a76c_car_1x1.gif?h=cf2ee241356101c627e3efd748d598c0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theamaan&label=Profile%20views&color=0e75b6&style=flat" alt="theamaan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theamaan" alt="theamaan" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/theamaan13" target="blank"><img src="https://img.shields.io/twitter/follow/theamaan13?logo=twitter&style=for-the-badge" alt="theamaan13" /></a> </p>
 
 - 🌱 I’m currently diving deep into **Enterprise Data Integration (EDI), enhancing my understanding of complex data workflows and how they shape enterprise-level applications.**
